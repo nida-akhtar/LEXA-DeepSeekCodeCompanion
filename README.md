@@ -20,9 +20,9 @@ It helps you write, debug, and understand code — all locally, with **zero clou
 
 <p align="center">
   <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-lighttext.png" width="80" alt="Streamlit"/>
-  <img src="https://python.langchain.com/img/logo.png" width="80" alt="LangChain"/>
-  <img src="https://ollama.ai/public/logo.png" width="80" alt="Ollama"/>
-  <img src="https://example.com/deepseek-logo.png" width="80" alt="DeepSeek"/>
+  <img src="https://raw.githubusercontent.com/hwchase17/langchain/master/docs/static/img/langchain_logo.png" width="80" alt="LangChain"/>
+  <img src="https://avatars.githubusercontent.com/u/135676318?s=200&v=4" width="80" alt="Ollama"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="80" alt="DeepSeek"/>
 </p>
 
 | Component | Description |
@@ -31,6 +31,7 @@ It helps you write, debug, and understand code — all locally, with **zero clou
 | **LangChain** | Conversational pipeline |
 | **Ollama** | Local LLM backend |
 | **DeepSeek R1 (1.5B / 3B)** | Model choices |
+
 
 
 ---
