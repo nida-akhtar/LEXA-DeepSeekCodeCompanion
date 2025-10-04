@@ -1,7 +1,7 @@
 # LEXA - Deep Seek Code Companion
 ### Your Local AI Pair Programmer & Debugging Assistant  
 
-🚀 **LEXA** is a Streamlit-based coding companion powered by **Ollama** and **LangChain**.  
+**LEXA** is a Streamlit-based coding companion powered by **Ollama** and **LangChain**.  
 It helps you write, debug, and understand code — all locally, with **zero cloud dependencies**.  
 
 ---
