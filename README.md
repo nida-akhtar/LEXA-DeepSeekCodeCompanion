@@ -1,4 +1,4 @@
-# 🧠 LEXA 
+# LEXA - Deep Seek Code Companion
 ### Your Local AI Pair Programmer & Debugging Assistant  
 
 🚀 **LEXA** is a Streamlit-based coding companion powered by **Ollama** and **LangChain**.  
@@ -58,6 +58,9 @@ cd codeforge-ai
 
 ```bash
 pip install streamlit langchain langchain-ollama
+OR
+pip install -r requirements.txt
+
 ```
 
 ### 🚀 Run the App
@@ -83,6 +86,7 @@ streamlit run app.py
 - Getting algorithm explanations  
 - Generating boilerplate code  
 - Learning programming interactively  
+SSREEN SHOTS ARE ALSO ATTACHED IN THE END
 
 ---
 
@@ -107,6 +111,15 @@ codeforge-ai/
 ├── app.py                 # Main Streamlit app
 ├── requirements.txt       # Dependencies
 └── README.md              # Project info
+└── .gitignore             # Files to ignore
+└── Assets/     
+└──     DeepSeek.png
+└──     LangChain.png
+└──     Ollama.png
+└──     Streamlit.png
+└──     UI.png
+└──     UI1.png                      
+
 ```
 
 ## USER INTERFACE
