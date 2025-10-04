@@ -36,20 +36,20 @@ Download Ollama from 👉 [https://ollama.ai/download](https://ollama.ai/downloa
 ```bash
 ollama pull deepseek-r1:1.5b
 ollama pull deepseek-r1:3b
-
+```
 
 ### 3️⃣ Clone this Repository  
 
 ```bash
 git clone https://github.com/your-username/codeforge-ai.git
 cd codeforge-ai
-
+```
 
 ### 4️⃣ Install Dependencies  
 
 ```bash
 pip install streamlit langchain langchain-ollama
-
+```
 
 ### 🚀 Run the App
 
@@ -57,6 +57,7 @@ Make sure Ollama is running, then start Streamlit:
 
 ```bash
 streamlit run app.py
+```
 
 ### 🧩 Usage  
 
@@ -88,7 +89,7 @@ DeepSeek via Ollama
 AI Response 
    ↓
 Streamlit UI
-
+```
 ## 🛠️ Folder Structure  
 
 ```text
@@ -97,7 +98,7 @@ codeforge-ai/
 ├── app.py                 # Main Streamlit app
 ├── requirements.txt       # Dependencies
 └── README.md              # Project info
-
+```
 
 ## USER INTERFACE
 
