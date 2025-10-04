@@ -19,10 +19,10 @@ It helps you write, debug, and understand code — all locally, with **zero clou
 ## 🏗️ Tech Stack  
 
 <p align="center">
-  <img src="assets/DeepSeek.png" width="80" alt="LangChain" width="80" alt="DeepSeek"/>
+  <img src="assets/DeepSeek.png" width="80" alt="DeepSeek" width="80" alt="DeepSeek"/>
   <img src="assets/LanChain.png" width="80" alt="LangChain" width="80" alt="LangChain"/>
-  <img src="assets/Steamlit" width="80" alt="LangChain"width="80" alt="Streamlit"/>
-  <img src="assets/Ollama.png" width="80" alt="LangChain" width="80" alt="Ollama"/>
+  <img src="assets/Steamlit" width="80" alt="Streamlit"width="80" alt="Streamlit"/>
+  <img src="assets/Ollama.png" width="80" alt="Ollama" width="80" alt="Ollama"/>
 </p>
 
 | Component | Description |
