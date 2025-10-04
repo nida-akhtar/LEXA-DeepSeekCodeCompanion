@@ -19,10 +19,10 @@ It helps you write, debug, and understand code — all locally, with **zero clou
 ## 🏗️ Tech Stack  
 
 <p align="center">
-  <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-lighttext.png" width="80" alt="Streamlit"/>
-  <img src="https://raw.githubusercontent.com/hwchase17/langchain/master/docs/static/img/langchain_logo.png" width="80" alt="LangChain"/>
-  <img src="https://avatars.githubusercontent.com/u/135676318?s=200&v=4" width="80" alt="Ollama"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="80" alt="DeepSeek"/>
+  <img src="assets/DeepSeek.png" width="80" alt="LangChain" width="80" alt="DeepSeek"/>
+  <img src="assets/LanChain.png" width="80" alt="LangChain" width="80" alt="LangChain"/>
+  <img src="assets/Steamlit" width="80" alt="LangChain"width="80" alt="Streamlit"/>
+  <img src="assets/Ollama.png" width="80" alt="LangChain" width="80" alt="Ollama"/>
 </p>
 
 | Component | Description |
