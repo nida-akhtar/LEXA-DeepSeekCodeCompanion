@@ -38,44 +38,47 @@ ollama pull deepseek-r1:1.5b
 ollama pull deepseek-r1:3b
 
 
-
-
-## 3️⃣ Clone this Repository
+### 3️⃣ Clone this Repository  
 
 ```bash
 git clone https://github.com/your-username/codeforge-ai.git
 cd codeforge-ai
 
-4️⃣ Install Dependencies
+
+### 4️⃣ Install Dependencies  
+
+```bash
 pip install streamlit langchain langchain-ollama
 
-##🚀 Run the App
+
+### 🚀 Run the App
 
 Make sure Ollama is running, then start Streamlit:
 
+```bash
 streamlit run app.py
 
-##🧩 Usage
+### 🧩 Usage  
 
-Choose a model (deepseek-r1:1.5b or deepseek-r1:3b)
+- Choose a model (`deepseek-r1:1.5b` or `deepseek-r1:3b`)  
+- Type your coding question or paste your code  
+- Get instant debugging help, explanations, or refactoring suggestions  
 
-Type your coding question or paste your code
+---
 
-Get instant debugging help, explanations, or refactoring suggestions
+## 🌑 Example Use Cases  
 
-##🌑 Example Use Cases
+- Debugging Python scripts  
+- Writing documentation  
+- Getting algorithm explanations  
+- Generating boilerplate code  
+- Learning programming interactively  
 
-Debugging Python scripts
+---
 
-Writing documentation
+## 🧠 Architecture Overview  
 
-Getting algorithm explanations
-
-Generating boilerplate code
-
-Learning programming interactively
-
-##🧠 Architecture Overview
+```text
 User Query 
    ↓
 LangChain Prompt Pipeline 
@@ -86,12 +89,15 @@ AI Response
    ↓
 Streamlit UI
 
-##🛠️ Folder Structure
+## 🛠️ Folder Structure  
+
+```text
 codeforge-ai/
 │
 ├── app.py                 # Main Streamlit app
 ├── requirements.txt       # Dependencies
 └── README.md              # Project info
+
 
 ## USER INTERFACE
 
