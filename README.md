@@ -12,11 +12,18 @@ It helps you write, debug, and understand code — all locally, with **zero clou
 - 🐞 **Smart debugging assistance** with clear reasoning  
 - 🧩 **Context-aware chat memory**  
 - 🧠 **Built on DeepSeek (R1 models)** via Ollama  
-- 💬 **Clean, dark-themed chat interface**  
+- 💬 **Clean, chat interface**  
 
 ---
 
 ## 🏗️ Tech Stack  
+
+<p align="center">
+  <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-lighttext.png" width="80" alt="Streamlit"/>
+  <img src="https://python.langchain.com/img/logo.png" width="80" alt="LangChain"/>
+  <img src="https://ollama.ai/public/logo.png" width="80" alt="Ollama"/>
+  <img src="https://example.com/deepseek-logo.png" width="80" alt="DeepSeek"/>
+</p>
 
 | Component | Description |
 |------------|-------------|
@@ -24,6 +31,7 @@ It helps you write, debug, and understand code — all locally, with **zero clou
 | **LangChain** | Conversational pipeline |
 | **Ollama** | Local LLM backend |
 | **DeepSeek R1 (1.5B / 3B)** | Model choices |
+
 
 ---
 
